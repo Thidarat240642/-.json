@@ -1,0 +1,79 @@
+{
+    "lastupdate": "4/19/2020",
+    "total" : {
+        "sum" : "1000" ,
+        "deaths" : "47",
+        "recovered": "180"
+    },
+    //อาการไข้
+    "fever" : {
+        "sum" : "100" ,
+        "deaths" : "10",
+        "recovered": "90"
+
+    },
+    //อาการไอแห้ง
+    " dry cough " : {
+        "sum" : "20" ,
+        "deaths" : "10",
+        "recovered": "10"
+
+    },
+    //อาการอ่อนเพลีย
+    " fatigue" : {
+        "sum" : "50" ,
+        "deaths" : "10",
+        "recovered": "40"
+
+    },
+    //ไอมีเสมหะ
+    " sputum production " : {
+        "sum" : "30" ,
+        "deaths" : "20",
+        "recovered": "10"
+
+    },
+    //หายใจเหนื่อย
+    " shortness of breath " : {
+        "sum" : "20" ,
+        "deaths" : "10",
+        "recovered": "10"
+
+    },
+    //เจ็บคอ
+    "  sore throat " : {
+        "sum" : "40" ,
+        "deaths" : "10",
+        "recovered": "20"
+
+    },
+    //ปวดหัว
+    " headache" : {
+        "sum" : "30" ,
+        "deaths" : "20",
+        "recovered": "10"
+
+    },
+    //ปวดเมื่อยกล้ามเนื้อ
+    "myalgia or arthralgia" : {
+        "sum" : "10" ,
+        "deaths" : "5",
+        "recovered": "5"
+
+    },
+    //หนาวสั่น
+    " chills" : {
+        "sum" : "30" ,
+        "deaths" : "0",
+        "recovered": "30"
+
+    },
+    //คลื่นไส้หรืออาเจียน
+    " nausea or vomiting " : {
+        "sum" : "20" ,
+        "deaths" : "0",
+        "recovered": "20"
+
+    }
+
+}
